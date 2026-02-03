@@ -28,7 +28,7 @@ The objective of this project is to analyze the sales performance of sales execu
 - Target achievement analysis
 - Designed an interactive dashboard using:
 - Pivot charts
-- Slicers for Region and Sales Executive
+- Slicers for Region 
 - Combined all visuals into a single, user-friendly dashboard.
 
 ## Dashboard
@@ -38,7 +38,6 @@ The objective of this project is to analyze the sales performance of sales execu
 ## Project Insights
 - The dataset contains 141 sales executives across multiple regions.
 - The average target achievement is approximately 55%, indicating scope for improvement.
-- Nagpur region contributes the highest total sales overall.
 - Jagdish Chandra is the top-performing sales executive with the highest target hit percentage.
 - Several executives are significantly away from target, highlighting the need for focused coaching and strategy changes.
 - Regional performance varies, suggesting region-specific sales strategies can improve results.
